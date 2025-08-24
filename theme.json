@@ -1,0 +1,131 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"settings": {
+		"appearanceTools": false,
+		"color": {
+			"defaultDuotone": false,
+			"defaultGradients": false,
+			"defaultPalette": false,
+			"palette": [
+				{
+					"color": "#FFFFFF",
+					"name": "Base",
+					"slug": "base"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "0px",
+			"wideSize": "0px"
+		},
+		"spacing": {
+			"defaultSpacingSizes": false,
+			"spacingSizes": [],
+			"units": []
+		},
+		"typography": {
+			"defaultFontSizes": false,
+			"fluid": false,
+			"fontSizes": [],
+			"fontFamilies": []
+		},
+		"useRootPaddingAwareAlignments": false
+	},
+	"styles": {
+		"color": {
+			"background": "#ffffff",
+			"text": "transparent"
+		},
+		"spacing": {
+			"blockGap": "0",
+			"padding": {
+				"left": "0",
+				"right": "0",
+				"top": "0",
+				"bottom": "0"
+			},
+			"margin": {
+				"left": "0",
+				"right": "0",
+				"top": "0",
+				"bottom": "0"
+			}
+		},
+		"typography": {
+			"fontSize": "0",
+			"fontWeight": "0",
+			"letterSpacing": "0",
+			"lineHeight": "0"
+		},
+		"blocks": {},
+		"elements": {
+			"button": {
+				"color": {
+					"background": "transparent",
+					"text": "transparent"
+				},
+				"spacing": {
+					"padding": {
+						"bottom": "0",
+						"left": "0",
+						"right": "0",
+						"top": "0"
+					}
+				},
+				"typography": {
+					"fontSize": "0"
+				}
+			},
+			"caption": {
+				"typography": {
+					"fontSize": "0",
+					"lineHeight": "0"
+				}
+			},
+			"h1": {
+				"typography": {
+					"fontSize": "0"
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontSize": "0"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontSize": "0"
+				}
+			},
+			"h4": {
+				"typography": {
+					"fontSize": "0"
+				}
+			},
+			"h5": {
+				"typography": {
+					"fontSize": "0"
+				}
+			},
+			"h6": {
+				"typography": {
+					"fontSize": "0"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontSize": "0",
+					"lineHeight": "0"
+				}
+			},
+			"link": {
+				"color": {
+					"text": "transparent"
+				}
+			}
+		}
+	},
+	"templateParts": [],
+	"customTemplates": []
+}
